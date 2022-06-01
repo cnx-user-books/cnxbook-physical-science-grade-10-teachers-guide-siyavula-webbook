@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>FullMarks User Guide</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40356</md:content-id>
+  <md:title>FullMarks User Guide</md:title>
+  <md:abstract>This module introduces educators to FullMarks, our free and open online assessment bank. FullMarks enables educators to save time setting tests.</md:abstract>
+  <md:uuid>034bd6eb-33e9-4c95-ba3e-580aa442c91e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171762129715">
+      <title>FullMarks User Guide</title>
+      <para id="id1171759599661">FullMarks can be accessed at: <link url="http://www.fullmarks.org.za/">http://www.fullmarks.org.za/</link>.</para>
+      <para id="id1171748564524">Siyavula offers an open online assessment bank called FullMarks, for the sharing and accessing of curriculum-aligned test and exam questions with answers. This site enables educators to quickly set tests and exam papers, by selecting items from the library and adding them to their test. Educators can then download their separate test and memo which is ready for printing. FullMarks further offers educators the option of capturing their learners' marks in order to view a selection of diagnostic reports on their performance.</para>
+      <para id="id1171759595499">To begin, you need to a create a free account by clicking on “sign up now” on the landing page. There is one piece of administration you need to do to get started properly: when you log in for the first time, click on your name on the top right. It will take you to your personal settings. You need to select Shuttleworth Foundation as your metadata organisation to see the curriculum topics.</para>
+      <section id="id1171770073436">
+        <title>What Can I do in FullMarks?</title>
+        <figure id="id1171763562541">
+          <media id="id1171763562541_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics19-641e.png" id="id1171763562541__onlineimage" height="310" width="317"/>
+          </media>
+        </figure>
+      </section>
+      <section id="id1171757594503">
+        <title>How do I do Each of These?</title>
+        <section id="id1171760603816">
+          <title>Access and Share Questions</title>
+          <para id="id1171748919265"><emphasis effect="bold">Sharing questions:</emphasis> use either the online editor or OpenOffice template which can be downloaded from the website (Browse questions → Contribute questions → Import questions). Take your test/worksheet/other question source. Break it up into the smallest sized individual questions that make sense, and use the template style guide to style your page according to question/answer. Upload these questions or type them up in the online editor (Browse questions → Contribute questions → Add questions). Do not include overall question numbering but do include sub numbering if needed (e.g. 1a, 2c, etc.). Insert the mark and time allocation, tag questions according to grade, subject i.e. a description of the question, and then select the topics from the topic tree . Finalise questions so that they can be used in tests and accessed by other FullMarks users.</para>
+          <para id="id1171756690999">Accessing questions: there are three ways to access questions in the database. Click on “Browse questions” → click on the arrow to the left of the grade, which opens out the subjects → keep clicking on the arrows to open the learning outcomes or, following the same process, instead of clicking on the arrow, click on the grade → now you can browse the full database of questions for all the subjects in that grade or, from the landing page, click on “Browse questions” → below the banner image click on “Find Questions” → search by topics, author (if you know a contributor), text or keywords e.g. Gr10 mathematics functions and graphs. </para>
+        </section>
+        <section id="id1171763642497">
+          <title>Create Tests from Questions</title>
+          <para id="id1171753971612">So, you have all these bits of tests (i.e. many questions!), but what you really want is the actual test. How do you do this? Well, you can simply click “add to test” on any question and then click on the “Tests” tab at the top right of the page, and follow the simple instructions. Alternatively you can create a test by starting with clicking on that same “Tests” tab, and add questions to your test that way. Once done, simply print off the PDF file of the questions and the file for the memo. Issue your test, collect them once complete, and mark them. </para>
+        </section>
+        <section id="id1171768370739">
+          <title>Create Class Lists</title>
+          <para id="id1171770407826">But now you are asking, how can I keep track of my classes? Is Johnny Brown in class A or B? Well, you can make a class list by clicking on the “Class lists” tab at the top right of the page, and either import a CSV file, or manually enter the relevant information for each class. Now you can issue tests to your classes, and have a class list for each class. And what about capturing their marks?</para>
+        </section>
+        <section id="id1171766247392">
+          <title>Create Scoresheets</title>
+          <para id="id1171763573792">For each test you can create a scoresheet. Select the “Tests” tab at the top right, click on “Marks” below the banner image, and select the test and follow the instructions to input their marks. You can then export these as a CSV file for use in spreadsheets.</para>
+        </section>
+        <section id="id1171770753706">
+          <title>Analyse Learners' Performance</title>
+          <para id="id1171770796884">And finally, you can print out reports of class performance. Click on “Reports” at the top right of the page, which opens various reports you can view. There are reports to see class performance, learner performance, class performance per topic, class performance per question, learner strengths and weaknesses, and learner progress.</para>
+          <para id="id1171757751250">So now you know how FullMarks works, we encourage you to make use of its simple functionality, and let it help you save time setting tests and analysing learner marks!</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
